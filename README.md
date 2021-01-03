@@ -1,4 +1,4 @@
-当データはRPGツクールMVのプロジェクトです。
+当データはRPGツクールMZのプロジェクトです。
 
-©Gotcha Gotcha Games Inc. ./YOJI OJIMA 2020
+©Gotcha Gotcha Games Inc./YOJI OJIMA 2020
 https://tkool.jp/mz/
